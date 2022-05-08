@@ -8,6 +8,7 @@
 .eft{
     height: 200px;
     margin-left: 40%;
+    margin-top: 60px;
 }
 .text{
     margin-top: 90px;
@@ -58,11 +59,13 @@ footer p{
         position: relative;
         left: 120px;
     }
+
+    .eft{
+        margin-left: 15%;
+        margin-top: 79px;
+    }
 }
 
 @media (max-width: 576px){
-    .eft{
-        margin-left: 15%;
-        margin-top: 25px;
-    }
+   
 }
