@@ -10,6 +10,16 @@
     margin-left: 40%;
     margin-top: 60px;
 }
+.text .h2{
+    margin-bottom: 35px;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+video{
+    width: 480px;
+    margin-left: 31%;
+    margin-top: 90px;
+}
 .text{
     margin-top: 90px;
 }
@@ -55,6 +65,12 @@ footer p{
         font-size: 16px;
     }
 
+    .text .h2{
+        margin-bottom: 35px;
+        font-size: 1.5em;
+        font-weight: 600;
+    }
+
     .En a{
         position: relative;
         left: 120px;
@@ -64,8 +80,11 @@ footer p{
         margin-left: 15%;
         margin-top: 79px;
     }
+    video{
+        width: 320px;
+        margin-left: 2%;
+        margin-top: 90px;
+    }
 }
 
-@media (max-width: 576px){
-   
-}
+ 
